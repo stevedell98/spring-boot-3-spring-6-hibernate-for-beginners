@@ -60,12 +60,6 @@ public class HelloWorldController {
 
         return "helloworld";
     }
-
-    @PostMapping("/test")
-    public String metodTest(@RequestParam(""))
-
-        return "asd"
-    }
 }
 
 
